@@ -1,0 +1,1032 @@
+[21:56:25.000][INFO][tid 22544] config: base dir C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull
+[21:56:25.000][INFO][tid 22544] overlay: worker started, pid=7620
+[21:56:25.000][INFO][tid 22544] overlay: build tag dx12i-suball-potions-poolscan-r33-safe-render
+[21:56:25.000][INFO][tid 22544] overlay: log at C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\nightfull.log
+[21:56:25.000][INFO][tid 22544] overlay: game window detected
+[21:56:25.044][INFO][tid 22544] overlay: hooks live (present=00007FFE12D49530 resize=00007FFE12D67180)
+[21:56:25.045][INFO][tid 10696] overlay: swapchain OutputWindow is null - probing found 00000000001E06BA
+[21:56:25.058][INFO][tid 10696] overlay: WndProc subclass installed on 00000000001E06BA [Windows.UI.Core.CoreWindow] (primary)
+[21:56:25.058][INFO][tid 10696] overlay: raw input sink registered on 00000000001E06BA
+[21:56:25.059][INFO][tid 10696] overlay: WndProc subclass installed on 00000000018405D8 [IME] (extra)
+[21:56:25.264][INFO][tid 10696] overlay: Keyboard::feed at 00007FF6720ECE30 (sig 00007FF6720F207C)
+[21:56:25.266][INFO][tid 10696] overlay: Keyboard::feed hook active=1 (0)
+[21:56:25.705][INFO][tid 10696] java-hotkeys: game version 1.21.111 -> patch 111
+[21:56:25.716][INFO][tid 10696] java-hotkeys: controller hooks active hover=00007FF671308D10 tick=00007FF671303D50 takeAll=sig placeAllVft=57
+[21:56:25.965][INFO][tid 10696] overlay: MouseDevice::feed at 00007FF67661D5B0 via prologue
+[21:56:25.968][INFO][tid 10696] overlay: MouseDevice::feed hook active=1 (0)
+[21:56:26.070][INFO][tid 22544] overlay: present observed
+[21:56:26.226][INFO][tid 10696] overlay: Options::getGamma hook active=1 (0, 00007FF6716A7870)
+[21:56:26.332][INFO][tid 22544] hitboxes: Actor::baseTick hook active slot=29 target=00007FF66FE5AF70
+[21:56:26.619][INFO][tid 22544] hitboxes: LevelRenderer::renderLevel hook active=1 matches=1 status=0
+[21:56:26.619][INFO][tid 18492] hitboxes: AABB sampler started
+[21:56:26.812][INFO][tid 10696] guiscale: ScreenView::setupAndRender active=1 status=0
+[21:56:27.160][INFO][tid 10696] guiscale: UIControl::getPosition found=1
+[21:56:27.168][INFO][tid 10696] guiscale: screen-size hook active=1 status=0
+[21:56:27.188][INFO][tid 22544] ping: RakPeer::GetAveragePing hook status=0
+[21:56:27.222][INFO][tid 18492] potions: hamambanan reader local-player candidates=1 bridge=msvc-registry
+[21:56:27.222][ERROR][tid 18492] hitboxes: AABB sampler has no world registry (pass=1) - nothing is refreshing the box cache
+[21:56:27.479][INFO][tid 22544] reach: GameMode::attack hook status=0 target=00007FF6750BB0C0
+[21:56:27.570][INFO][tid 10696] potions: hamambanan reader local-player candidates=1 bridge=msvc-registry
+[21:56:27.585][INFO][tid 10696] overlay: cursor/raw-block hooks active=1 (async key mask included)
+[21:56:27.609][INFO][tid 10696] overlay: queue hook live (exec=00007FFDE9A61280)
+[21:56:27.610][INFO][tid 10696] fonts: dir C:\Users\ruzan\OneDrive\Pictures\Nightfull_src\build\fonts
+[21:56:27.610][INFO][tid 10696] fonts: fallback dir C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\fonts
+[21:56:27.610][INFO][tid 10696] fonts: role Mono <- C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\fonts\JetBrainsMono-Regular.ttf
+[21:56:27.610][INFO][tid 10696] fonts: role Icon <- C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\fonts\lucide.ttf
+[21:56:27.612][INFO][tid 10696] fonts: role UI <- C:\Windows\Fonts\segoeui.ttf
+[21:56:27.612][INFO][tid 10696] fonts: UI via system sans
+[21:56:27.612][INFO][tid 10696] fonts: role UISemi <- C:\Windows\Fonts\segoeui.ttf
+[21:56:27.612][INFO][tid 10696] fonts: UISemi via system sans
+[21:56:27.612][INFO][tid 10696] fonts: role Bold <- C:\Windows\Fonts\segoeui.ttf
+[21:56:27.612][INFO][tid 10696] fonts: Bold via system sans
+[21:56:27.613][INFO][tid 10696] fonts: role Title <- C:\Windows\Fonts\segoeui.ttf
+[21:56:27.613][INFO][tid 10696] fonts: Title via system sans
+[21:56:27.613][INFO][tid 10696] fonts: init ok
+[21:56:27.613][INFO][tid 10696] registry: 31 modules
+[21:56:27.614][INFO][tid 10696] config: loaded C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\config.json
+[21:56:27.614][INFO][tid 10696] autosprint: move-input flag writes enabled
+[21:56:27.623][INFO][tid 10696] java-hotkeys: options read=1 type=0 bindings=9
+[21:56:27.623][INFO][tid 10696] java-hotkeys: enabled hooks=1
+[21:56:27.623][INFO][tid 10696] guard: Java Hotkeys::enable slow (8.5 ms)
+[21:56:27.798][INFO][tid 10696] overlay: Solstice NoHurtCam located at 00007FF66FEE98A3 len=4
+[21:56:27.798][INFO][tid 10696] overlay: Solstice NoHurtCam enabled
+[21:56:27.799][ERROR][tid 10696] guard: NoHurtCam::enable took 176.5 ms - kept enabled (single slow phase)
+[21:56:27.799][INFO][tid 10696] vsync: disabled (SyncInterval forced to 0)
+[21:56:27.799][INFO][tid 10696] menu: init ok (31 modules)
+[21:56:27.799][INFO][tid 10696] overlay: ImGui + menu ready
+[21:56:27.842][INFO][tid 10696] overlay: DX12 device objects ready
+[21:56:27.842][INFO][tid 10696] overlay: D3D12 path engaged (3 buffers, fmt=28 2560x1440 sample=1 effect=3)
+[21:56:27.842][INFO][tid 10696] overlay: game direct queue captured (0000017DA1D91B80)
+[21:56:27.842][INFO][tid 10696] trace: present returned 00000000 removed=00000000
+[21:56:27.842][INFO][tid 10696] trace: present frame 1 begin
+[21:56:27.844][INFO][tid 10696] trace: hotkeys done
+[21:56:27.845][INFO][tid 10696] overlay: Win32 backend bound to 00000000001E06BA
+[21:56:27.845][INFO][tid 10696] guiscale: waiting for GuiData
+[21:56:27.845][INFO][tid 10696] trace: entering render
+[21:56:27.883][INFO][tid 22708] hitboxes: camera origin: no level (client=0000017DE4BB74B0 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:56:27.886][INFO][tid 22708] hitboxes: frame transform skipped client=0000017DE4BB74B0 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:56:27.888][INFO][tid 10696] trace: d3d12 list reset
+[21:56:27.890][INFO][tid 10696] saturation: pass active (dx12, 2560x1440, intensity=1.85)
+[21:56:27.890][INFO][tid 10696] trace: d3d12 target set
+[21:56:27.890][INFO][tid 10696] trace: d3d12 newframe done
+[21:56:27.890][INFO][tid 10696] trace: d3d12 ui::Frame enter
+[21:56:27.890][INFO][tid 10696] trace: ui::Frame 1 begin
+[21:56:27.890][INFO][tid 10696] trace: ui apply done
+[21:56:27.892][INFO][tid 10696] trace: ui binds done
+[21:56:27.894][INFO][tid 10696] trace: ui modules done
+[21:56:27.894][INFO][tid 10696] trace: ui autosave done
+[21:56:27.894][INFO][tid 10696] trace: ui toasts done
+[21:56:27.894][INFO][tid 10696] trace: d3d12 ui::Frame exit
+[21:56:27.894][INFO][tid 10696] trace: d3d12 imgui render done
+[21:56:27.894][INFO][tid 10696] trace: d3d12 drawdata done
+[21:56:27.894][INFO][tid 10696] trace: d3d12 submit queue 0000017DA1D91B80 (game)
+[21:56:27.895][INFO][tid 10696] trace: d3d12 submit done
+[21:56:27.895][INFO][tid 10696] trace: render done
+[21:56:27.895][INFO][tid 10696] trace: present returned 00000000 removed=00000000
+[21:56:27.897][INFO][tid 10696] trace: present frame 2 begin
+[21:56:27.897][INFO][tid 10696] trace: hotkeys done
+[21:56:27.897][INFO][tid 10696] trace: entering render
+[21:56:27.897][INFO][tid 10696] trace: d3d12 list reset
+[21:56:27.897][INFO][tid 10696] motionblur: pass active (dx12, 2560x1440)
+[21:56:27.897][INFO][tid 10696] trace: d3d12 target set
+[21:56:27.897][INFO][tid 10696] trace: d3d12 newframe done
+[21:56:27.897][INFO][tid 10696] trace: d3d12 ui::Frame enter
+[21:56:27.897][INFO][tid 10696] trace: ui::Frame 2 begin
+[21:56:27.897][INFO][tid 10696] trace: ui apply done
+[21:56:27.897][INFO][tid 10696] trace: ui binds done
+[21:56:27.897][INFO][tid 10696] trace: ui modules done
+[21:56:27.898][INFO][tid 10696] trace: ui autosave done
+[21:56:27.898][INFO][tid 10696] trace: ui toasts done
+[21:56:27.898][INFO][tid 10696] trace: d3d12 ui::Frame exit
+[21:56:27.898][INFO][tid 10696] trace: d3d12 imgui render done
+[21:56:27.898][INFO][tid 10696] trace: d3d12 drawdata done
+[21:56:27.898][INFO][tid 10696] trace: d3d12 submit queue 0000017DA1D91B80 (game)
+[21:56:27.898][INFO][tid 10696] trace: d3d12 submit done
+[21:56:27.898][INFO][tid 10696] trace: render done
+[21:56:27.898][INFO][tid 10696] trace: present returned 00000000 removed=00000000
+[21:56:27.901][INFO][tid 10696] trace: present frame 3 begin
+[21:56:27.901][INFO][tid 10696] trace: hotkeys done
+[21:56:27.901][INFO][tid 10696] trace: entering render
+[21:56:27.901][INFO][tid 10696] trace: d3d12 list reset
+[21:56:27.901][INFO][tid 10696] trace: d3d12 target set
+[21:56:27.901][INFO][tid 10696] trace: d3d12 newframe done
+[21:56:27.901][INFO][tid 10696] trace: d3d12 ui::Frame enter
+[21:56:27.901][INFO][tid 10696] trace: ui::Frame 3 begin
+[21:56:27.901][INFO][tid 10696] trace: ui apply done
+[21:56:27.901][INFO][tid 10696] trace: ui binds done
+[21:56:27.902][INFO][tid 10696] trace: ui modules done
+[21:56:27.902][INFO][tid 10696] trace: ui autosave done
+[21:56:27.902][INFO][tid 10696] trace: ui toasts done
+[21:56:27.902][INFO][tid 10696] trace: d3d12 ui::Frame exit
+[21:56:27.902][INFO][tid 10696] trace: d3d12 imgui render done
+[21:56:27.902][INFO][tid 10696] trace: d3d12 drawdata done
+[21:56:27.902][INFO][tid 10696] trace: d3d12 submit queue 0000017DA1D91B80 (game)
+[21:56:27.902][INFO][tid 10696] trace: d3d12 submit done
+[21:56:27.902][INFO][tid 10696] trace: render done
+[21:56:27.944][INFO][tid 22708] wndproc: first WM_MOUSEMOVE
+[21:56:28.834][ERROR][tid 18492] hitboxes: AABB sampler has no world registry (pass=68) - nothing is refreshing the box cache
+[21:56:30.815][ERROR][tid 18492] hitboxes: AABB sampler has no world registry (pass=161) - nothing is refreshing the box cache
+[21:56:31.314][INFO][tid 22708] hitboxes: camera origin: no level (client=0000017DE4BB74B0 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:56:31.319][INFO][tid 22708] hitboxes: frame transform skipped client=0000017DE4BB74B0 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:56:31.488][INFO][tid 22708] wndproc: first WM_INPUT
+[21:56:32.133][INFO][tid 22708] rawmouse: first buttons=0001
+[21:56:32.762][INFO][tid 10696] guard: Potions::render slow (5.8 ms)
+[21:56:32.810][ERROR][tid 18492] hitboxes: AABB sampler has no world registry (pass=287) - nothing is refreshing the box cache
+[21:56:33.312][INFO][tid 22708] hitboxes: camera origin: no level (client=0000017DE4BB74B0 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:56:33.312][INFO][tid 22708] hitboxes: frame transform skipped client=0000017DE4BB74B0 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:56:34.128][INFO][tid 10696] input census(600): keydown=0 keyup=0 rawinput=1113 rawbtn=4 char=0 mousemove=17 lbtn=0 fgwnd=0 asyncEver(insert=0 k=0 m1=0)
+[21:56:34.810][ERROR][tid 18492] hitboxes: AABB sampler has no world registry (pass=414) - nothing is refreshing the box cache
+[21:56:35.315][INFO][tid 22708] hitboxes: camera origin: no level (client=0000017DE4BB74B0 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:56:35.315][INFO][tid 22708] hitboxes: frame transform skipped client=0000017DE4BB74B0 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:56:36.821][ERROR][tid 18492] hitboxes: AABB sampler has no world registry (pass=542) - nothing is refreshing the box cache
+[21:56:37.310][INFO][tid 22708] hitboxes: camera origin: no level (client=0000017DE4BB74B0 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:56:37.310][INFO][tid 22708] hitboxes: frame transform skipped client=0000017DE4BB74B0 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:56:42.034][INFO][tid 19408] config: base dir C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull
+[21:56:42.360][INFO][tid 19408] overlay: worker started, pid=24432
+[21:56:42.410][INFO][tid 19408] overlay: build tag dx12i-suball-potions-poolscan-r33-safe-render
+[21:56:42.410][INFO][tid 19408] overlay: log at C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\nightfull.log
+[21:56:42.412][INFO][tid 19408] overlay: game window detected
+[21:56:42.454][INFO][tid 19408] overlay: hooks live (present=00007FFE12D49530 resize=00007FFE12D67180)
+[21:56:43.004][INFO][tid 2708] overlay: swapchain OutputWindow is null - probing found 00000000018505D8
+[21:56:43.004][INFO][tid 2708] overlay: WndProc subclass installed on 00000000018505D8 [Windows.UI.Core.CoreWindow] (primary)
+[21:56:43.004][INFO][tid 2708] overlay: raw input sink registered on 00000000018505D8
+[21:56:43.004][INFO][tid 2708] overlay: WndProc subclass installed on 0000000000170682 [IME] (extra)
+[21:56:43.221][INFO][tid 2708] overlay: Keyboard::feed at 00007FF6720ECE30 (sig 00007FF6720F207C)
+[21:56:43.224][INFO][tid 2708] overlay: Keyboard::feed hook active=1 (0)
+[21:56:43.466][INFO][tid 19408] overlay: present observed
+[21:56:43.674][INFO][tid 2708] java-hotkeys: game version 1.21.111 -> patch 111
+[21:56:43.674][INFO][tid 2708] java-hotkeys: controller hooks active hover=00007FF671308D10 tick=00007FF671303D50 takeAll=sig placeAllVft=57
+[21:56:43.734][INFO][tid 19408] hitboxes: Actor::baseTick hook active slot=29 target=00007FF66FE5AF70
+[21:56:43.937][INFO][tid 2708] overlay: MouseDevice::feed at 00007FF67661D5B0 via prologue
+[21:56:43.939][INFO][tid 2708] overlay: MouseDevice::feed hook active=1 (0)
+[21:56:44.005][INFO][tid 19408] hitboxes: LevelRenderer::renderLevel hook active=1 matches=1 status=0
+[21:56:44.005][INFO][tid 19472] hitboxes: AABB sampler started
+[21:56:44.202][INFO][tid 2708] overlay: Options::getGamma hook active=1 (0, 00007FF6716A7870)
+[21:56:44.286][INFO][tid 19408] ping: RakPeer::GetAveragePing hook status=0
+[21:56:44.399][INFO][tid 19472] potions: hamambanan reader local-player candidates=1 bridge=msvc-registry
+[21:56:44.399][ERROR][tid 19472] hitboxes: AABB sampler has no world registry (pass=1) - nothing is refreshing the box cache
+[21:56:44.553][INFO][tid 19408] reach: GameMode::attack hook status=0 target=00007FF6750BB0C0
+[21:56:44.731][INFO][tid 2708] guiscale: ScreenView::setupAndRender active=1 status=0
+[21:56:44.987][INFO][tid 2708] guiscale: UIControl::getPosition found=1
+[21:56:44.991][INFO][tid 2708] guiscale: screen-size hook active=1 status=0
+[21:56:45.004][INFO][tid 2708] overlay: cursor/raw-block hooks active=1 (async key mask included)
+[21:56:45.029][INFO][tid 2708] overlay: queue hook live (exec=00007FFDE9A61280)
+[21:56:45.030][INFO][tid 2708] fonts: dir C:\Users\ruzan\OneDrive\Pictures\Nightfull_src\build\fonts
+[21:56:45.030][INFO][tid 2708] fonts: fallback dir C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\fonts
+[21:56:45.030][INFO][tid 2708] fonts: role Mono <- C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\fonts\JetBrainsMono-Regular.ttf
+[21:56:45.032][INFO][tid 2708] fonts: role Icon <- C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\fonts\lucide.ttf
+[21:56:45.032][INFO][tid 2708] fonts: role UI <- C:\Windows\Fonts\segoeui.ttf
+[21:56:45.032][INFO][tid 2708] fonts: UI via system sans
+[21:56:45.033][INFO][tid 2708] fonts: role UISemi <- C:\Windows\Fonts\segoeui.ttf
+[21:56:45.033][INFO][tid 2708] fonts: UISemi via system sans
+[21:56:45.033][INFO][tid 2708] fonts: role Bold <- C:\Windows\Fonts\segoeui.ttf
+[21:56:45.033][INFO][tid 2708] fonts: Bold via system sans
+[21:56:45.033][INFO][tid 2708] fonts: role Title <- C:\Windows\Fonts\segoeui.ttf
+[21:56:45.033][INFO][tid 2708] fonts: Title via system sans
+[21:56:45.033][INFO][tid 2708] fonts: init ok
+[21:56:45.033][INFO][tid 2708] registry: 31 modules
+[21:56:45.033][INFO][tid 2708] config: loaded C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\config.json
+[21:56:45.033][INFO][tid 2708] autosprint: move-input flag writes enabled
+[21:56:45.042][INFO][tid 2708] java-hotkeys: options read=1 type=0 bindings=9
+[21:56:45.042][INFO][tid 2708] java-hotkeys: enabled hooks=1
+[21:56:45.042][INFO][tid 2708] guard: Java Hotkeys::enable slow (8.4 ms)
+[21:56:45.202][INFO][tid 2708] overlay: Solstice NoHurtCam located at 00007FF66FEE98A3 len=4
+[21:56:45.202][INFO][tid 2708] overlay: Solstice NoHurtCam enabled
+[21:56:45.202][ERROR][tid 2708] guard: NoHurtCam::enable took 160.1 ms - kept enabled (single slow phase)
+[21:56:45.202][INFO][tid 2708] vsync: disabled (SyncInterval forced to 0)
+[21:56:45.202][INFO][tid 2708] menu: init ok (31 modules)
+[21:56:45.202][INFO][tid 2708] overlay: ImGui + menu ready
+[21:56:45.241][INFO][tid 2708] overlay: DX12 device objects ready
+[21:56:45.241][INFO][tid 2708] overlay: D3D12 path engaged (3 buffers, fmt=28 2560x1440 sample=1 effect=3)
+[21:56:45.241][INFO][tid 2708] overlay: game direct queue captured (0000016056D92980)
+[21:56:45.241][INFO][tid 2708] trace: present returned 00000000 removed=00000000
+[21:56:45.242][INFO][tid 23652] trace: present frame 1 begin
+[21:56:45.244][INFO][tid 23652] trace: hotkeys done
+[21:56:45.245][INFO][tid 23652] overlay: Win32 backend bound to 00000000018505D8
+[21:56:45.245][INFO][tid 23652] guiscale: waiting for GuiData
+[21:56:45.245][INFO][tid 23652] trace: entering render
+[21:56:45.269][INFO][tid 23652] trace: d3d12 list reset
+[21:56:45.269][INFO][tid 23652] saturation: pass active (dx12, 2560x1440, intensity=1.85)
+[21:56:45.269][INFO][tid 23652] trace: d3d12 target set
+[21:56:45.270][INFO][tid 23652] trace: d3d12 newframe done
+[21:56:45.270][INFO][tid 23652] trace: d3d12 ui::Frame enter
+[21:56:45.270][INFO][tid 23652] trace: ui::Frame 1 begin
+[21:56:45.270][INFO][tid 23652] trace: ui apply done
+[21:56:45.270][INFO][tid 23652] trace: ui binds done
+[21:56:45.270][INFO][tid 23652] trace: ui modules done
+[21:56:45.270][INFO][tid 23652] trace: ui autosave done
+[21:56:45.270][INFO][tid 23652] trace: ui toasts done
+[21:56:45.270][INFO][tid 23652] trace: d3d12 ui::Frame exit
+[21:56:45.270][INFO][tid 23652] trace: d3d12 imgui render done
+[21:56:45.270][INFO][tid 23652] trace: d3d12 drawdata done
+[21:56:45.270][INFO][tid 23652] trace: d3d12 submit queue 0000016056D92980 (game)
+[21:56:45.270][INFO][tid 23652] trace: d3d12 submit done
+[21:56:45.271][INFO][tid 23652] trace: render done
+[21:56:45.271][INFO][tid 23652] trace: present returned 00000000 removed=00000000
+[21:56:45.273][INFO][tid 2708] trace: present frame 2 begin
+[21:56:45.273][INFO][tid 2708] trace: hotkeys done
+[21:56:45.273][INFO][tid 2708] trace: entering render
+[21:56:45.273][INFO][tid 2708] trace: d3d12 list reset
+[21:56:45.273][INFO][tid 2708] motionblur: pass active (dx12, 2560x1440)
+[21:56:45.273][INFO][tid 2708] trace: d3d12 target set
+[21:56:45.273][INFO][tid 2708] trace: d3d12 newframe done
+[21:56:45.273][INFO][tid 2708] trace: d3d12 ui::Frame enter
+[21:56:45.273][INFO][tid 2708] trace: ui::Frame 2 begin
+[21:56:45.273][INFO][tid 2708] trace: ui apply done
+[21:56:45.274][INFO][tid 2708] trace: ui binds done
+[21:56:45.274][INFO][tid 2708] trace: ui modules done
+[21:56:45.274][INFO][tid 2708] trace: ui autosave done
+[21:56:45.274][INFO][tid 2708] trace: ui toasts done
+[21:56:45.274][INFO][tid 2708] trace: d3d12 ui::Frame exit
+[21:56:45.274][INFO][tid 2708] trace: d3d12 imgui render done
+[21:56:45.274][INFO][tid 2708] trace: d3d12 drawdata done
+[21:56:45.274][INFO][tid 2708] trace: d3d12 submit queue 0000016056D92980 (game)
+[21:56:45.274][INFO][tid 2708] trace: d3d12 submit done
+[21:56:45.274][INFO][tid 2708] trace: render done
+[21:56:45.275][INFO][tid 2708] trace: present returned 00000000 removed=00000000
+[21:56:45.354][INFO][tid 2708] trace: present frame 3 begin
+[21:56:45.354][INFO][tid 2708] trace: hotkeys done
+[21:56:45.354][INFO][tid 2708] trace: entering render
+[21:56:45.354][INFO][tid 2708] trace: d3d12 list reset
+[21:56:45.354][INFO][tid 2708] trace: d3d12 target set
+[21:56:45.354][INFO][tid 2708] trace: d3d12 newframe done
+[21:56:45.354][INFO][tid 2708] trace: d3d12 ui::Frame enter
+[21:56:45.354][INFO][tid 2708] trace: ui::Frame 3 begin
+[21:56:45.354][INFO][tid 2708] trace: ui apply done
+[21:56:45.354][INFO][tid 2708] trace: ui binds done
+[21:56:45.354][INFO][tid 2708] trace: ui modules done
+[21:56:45.354][INFO][tid 2708] trace: ui autosave done
+[21:56:45.354][INFO][tid 2708] trace: ui toasts done
+[21:56:45.354][INFO][tid 2708] trace: d3d12 ui::Frame exit
+[21:56:45.355][INFO][tid 2708] trace: d3d12 imgui render done
+[21:56:45.355][INFO][tid 2708] trace: d3d12 drawdata done
+[21:56:45.355][INFO][tid 2708] trace: d3d12 submit queue 0000016056D92980 (game)
+[21:56:45.355][INFO][tid 2708] trace: d3d12 submit done
+[21:56:45.355][INFO][tid 2708] trace: render done
+[21:56:45.439][INFO][tid 23604] wndproc: first WM_MOUSEMOVE
+[21:56:45.440][INFO][tid 23604] wndproc: first WM_INPUT
+[21:56:45.998][ERROR][tid 19472] hitboxes: AABB sampler has no world registry (pass=104) - nothing is refreshing the box cache
+[21:56:53.864][ERROR][tid 19408] hitboxes: AABB sampler stalled - no pass for 7016 ms (passes=153)
+[21:56:53.864][ERROR][tid 19472] hitboxes: AABB sampler has no world registry (pass=154) - nothing is refreshing the box cache
+[21:57:00.083][INFO][tid 21036] config: base dir C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull
+[21:57:00.084][INFO][tid 21036] overlay: worker started, pid=9648
+[21:57:00.084][INFO][tid 21036] overlay: build tag dx12i-suball-potions-poolscan-r33-safe-render
+[21:57:00.084][INFO][tid 21036] overlay: log at C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\nightfull.log
+[21:57:00.086][INFO][tid 21036] overlay: game window detected
+[21:57:00.133][INFO][tid 21036] overlay: hooks live (present=00007FFE12D49530 resize=00007FFE12D67180)
+[21:57:01.083][INFO][tid 9788] overlay: swapchain OutputWindow is null - probing found 00000000000A0CEC
+[21:57:01.085][INFO][tid 9788] overlay: WndProc subclass installed on 00000000000A0CEC [Windows.UI.Core.CoreWindow] (primary)
+[21:57:01.085][INFO][tid 9788] overlay: raw input sink registered on 00000000000A0CEC
+[21:57:01.085][INFO][tid 9788] overlay: WndProc subclass installed on 00000000000D0A94 [MSCTFIME UI] (extra)
+[21:57:01.085][INFO][tid 9788] overlay: WndProc subclass installed on 00000000000B0CDC [IME] (extra)
+[21:57:01.142][INFO][tid 21036] overlay: present observed
+[21:57:01.305][INFO][tid 9788] overlay: Keyboard::feed at 00007FF6720ECE30 (sig 00007FF6720F207C)
+[21:57:01.309][INFO][tid 9788] overlay: Keyboard::feed hook active=1 (0)
+[21:57:01.398][INFO][tid 21036] hitboxes: Actor::baseTick hook active slot=29 target=00007FF66FE5AF70
+[21:57:01.665][INFO][tid 21036] hitboxes: LevelRenderer::renderLevel hook active=1 matches=1 status=0
+[21:57:01.665][INFO][tid 15892] hitboxes: AABB sampler started
+[21:57:01.767][INFO][tid 9788] java-hotkeys: game version 1.21.111 -> patch 111
+[21:57:01.767][INFO][tid 9788] java-hotkeys: controller hooks active hover=00007FF671308D10 tick=00007FF671303D50 takeAll=sig placeAllVft=57
+[21:57:01.917][INFO][tid 21036] ping: RakPeer::GetAveragePing hook status=0
+[21:57:02.020][INFO][tid 9788] overlay: MouseDevice::feed at 00007FF67661D5B0 via prologue
+[21:57:02.023][INFO][tid 9788] overlay: MouseDevice::feed hook active=1 (0)
+[21:57:02.047][INFO][tid 15892] potions: hamambanan reader local-player candidates=1 bridge=msvc-registry
+[21:57:02.047][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=1) - nothing is refreshing the box cache
+[21:57:02.165][INFO][tid 21036] reach: GameMode::attack hook status=0 target=00007FF6750BB0C0
+[21:57:02.265][INFO][tid 9788] overlay: Options::getGamma hook active=1 (0, 00007FF6716A7870)
+[21:57:02.789][INFO][tid 9788] guiscale: ScreenView::setupAndRender active=1 status=0
+[21:57:03.030][INFO][tid 9788] guiscale: UIControl::getPosition found=1
+[21:57:03.033][INFO][tid 9788] guiscale: screen-size hook active=1 status=0
+[21:57:03.044][INFO][tid 9788] overlay: cursor/raw-block hooks active=1 (async key mask included)
+[21:57:03.066][INFO][tid 9788] overlay: queue hook live (exec=00007FFDE9A61280)
+[21:57:03.066][INFO][tid 9788] fonts: dir C:\Users\ruzan\OneDrive\Pictures\Nightfull_src\build\fonts
+[21:57:03.068][INFO][tid 9788] fonts: fallback dir C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\fonts
+[21:57:03.068][INFO][tid 9788] fonts: role Mono <- C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\fonts\JetBrainsMono-Regular.ttf
+[21:57:03.068][INFO][tid 9788] fonts: role Icon <- C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\fonts\lucide.ttf
+[21:57:03.069][INFO][tid 9788] fonts: role UI <- C:\Windows\Fonts\segoeui.ttf
+[21:57:03.069][INFO][tid 9788] fonts: UI via system sans
+[21:57:03.069][INFO][tid 9788] fonts: role UISemi <- C:\Windows\Fonts\segoeui.ttf
+[21:57:03.069][INFO][tid 9788] fonts: UISemi via system sans
+[21:57:03.069][INFO][tid 9788] fonts: role Bold <- C:\Windows\Fonts\segoeui.ttf
+[21:57:03.069][INFO][tid 9788] fonts: Bold via system sans
+[21:57:03.071][INFO][tid 9788] fonts: role Title <- C:\Windows\Fonts\segoeui.ttf
+[21:57:03.071][INFO][tid 9788] fonts: Title via system sans
+[21:57:03.071][INFO][tid 9788] fonts: init ok
+[21:57:03.071][INFO][tid 9788] registry: 31 modules
+[21:57:03.071][INFO][tid 9788] config: loaded C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\config.json
+[21:57:03.071][INFO][tid 9788] autosprint: move-input flag writes enabled
+[21:57:03.080][INFO][tid 9788] java-hotkeys: options read=1 type=0 bindings=9
+[21:57:03.080][INFO][tid 9788] java-hotkeys: enabled hooks=1
+[21:57:03.080][INFO][tid 9788] guard: Java Hotkeys::enable slow (8.3 ms)
+[21:57:03.244][INFO][tid 9788] overlay: Solstice NoHurtCam located at 00007FF66FEE98A3 len=4
+[21:57:03.244][INFO][tid 9788] overlay: Solstice NoHurtCam enabled
+[21:57:03.244][ERROR][tid 9788] guard: NoHurtCam::enable took 164.5 ms - kept enabled (single slow phase)
+[21:57:03.244][INFO][tid 9788] vsync: disabled (SyncInterval forced to 0)
+[21:57:03.244][INFO][tid 9788] menu: init ok (31 modules)
+[21:57:03.244][INFO][tid 9788] overlay: ImGui + menu ready
+[21:57:03.282][INFO][tid 9788] overlay: DX12 device objects ready
+[21:57:03.282][INFO][tid 9788] overlay: D3D12 path engaged (3 buffers, fmt=28 2560x1440 sample=1 effect=3)
+[21:57:03.282][INFO][tid 9788] overlay: game direct queue captured (0000019734D86080)
+[21:57:03.283][INFO][tid 9788] trace: present returned 00000000 removed=00000000
+[21:57:03.283][INFO][tid 9788] trace: present frame 1 begin
+[21:57:03.284][INFO][tid 9788] trace: hotkeys done
+[21:57:03.285][INFO][tid 9788] overlay: Win32 backend bound to 00000000000A0CEC
+[21:57:03.285][INFO][tid 9788] guiscale: waiting for GuiData
+[21:57:03.285][INFO][tid 9788] trace: entering render
+[21:57:03.310][INFO][tid 9788] trace: d3d12 list reset
+[21:57:03.316][INFO][tid 9788] saturation: pass active (dx12, 2560x1440, intensity=1.85)
+[21:57:03.316][INFO][tid 9788] trace: d3d12 target set
+[21:57:03.316][INFO][tid 9788] trace: d3d12 newframe done
+[21:57:03.316][INFO][tid 9788] trace: d3d12 ui::Frame enter
+[21:57:03.316][INFO][tid 9788] trace: ui::Frame 1 begin
+[21:57:03.316][INFO][tid 9788] trace: ui apply done
+[21:57:03.316][INFO][tid 9788] trace: ui binds done
+[21:57:03.316][INFO][tid 9788] trace: ui modules done
+[21:57:03.316][INFO][tid 9788] trace: ui autosave done
+[21:57:03.316][INFO][tid 9788] trace: ui toasts done
+[21:57:03.316][INFO][tid 9788] trace: d3d12 ui::Frame exit
+[21:57:03.316][INFO][tid 9788] trace: d3d12 imgui render done
+[21:57:03.317][INFO][tid 9788] trace: d3d12 drawdata done
+[21:57:03.317][INFO][tid 9788] trace: d3d12 submit queue 0000019734D86080 (game)
+[21:57:03.318][INFO][tid 9788] trace: d3d12 submit done
+[21:57:03.318][INFO][tid 9788] trace: render done
+[21:57:03.319][INFO][tid 9788] trace: present returned 00000000 removed=00000000
+[21:57:03.323][INFO][tid 9788] trace: present frame 2 begin
+[21:57:03.323][INFO][tid 9788] trace: hotkeys done
+[21:57:03.323][INFO][tid 9788] trace: entering render
+[21:57:03.323][INFO][tid 9788] trace: d3d12 list reset
+[21:57:03.323][INFO][tid 9788] motionblur: pass active (dx12, 2560x1440)
+[21:57:03.323][INFO][tid 9788] trace: d3d12 target set
+[21:57:03.323][INFO][tid 9788] trace: d3d12 newframe done
+[21:57:03.323][INFO][tid 9788] trace: d3d12 ui::Frame enter
+[21:57:03.323][INFO][tid 9788] trace: ui::Frame 2 begin
+[21:57:03.323][INFO][tid 9788] trace: ui apply done
+[21:57:03.323][INFO][tid 9788] trace: ui binds done
+[21:57:03.323][INFO][tid 9788] trace: ui modules done
+[21:57:03.323][INFO][tid 9788] trace: ui autosave done
+[21:57:03.323][INFO][tid 9788] trace: ui toasts done
+[21:57:03.323][INFO][tid 9788] trace: d3d12 ui::Frame exit
+[21:57:03.323][INFO][tid 9788] trace: d3d12 imgui render done
+[21:57:03.323][INFO][tid 9788] trace: d3d12 drawdata done
+[21:57:03.323][INFO][tid 9788] trace: d3d12 submit queue 0000019734D86080 (game)
+[21:57:03.323][INFO][tid 9788] trace: d3d12 submit done
+[21:57:03.323][INFO][tid 9788] trace: render done
+[21:57:03.324][INFO][tid 9788] trace: present returned 00000000 removed=00000000
+[21:57:03.360][INFO][tid 9788] wndproc: first WM_MOUSEMOVE
+[21:57:03.462][INFO][tid 24352] trace: present frame 3 begin
+[21:57:03.462][INFO][tid 24352] trace: hotkeys done
+[21:57:03.462][INFO][tid 24352] trace: entering render
+[21:57:03.462][INFO][tid 24352] trace: d3d12 list reset
+[21:57:03.462][INFO][tid 24352] trace: d3d12 target set
+[21:57:03.462][INFO][tid 24352] trace: d3d12 newframe done
+[21:57:03.462][INFO][tid 24352] trace: d3d12 ui::Frame enter
+[21:57:03.462][INFO][tid 24352] trace: ui::Frame 3 begin
+[21:57:03.462][INFO][tid 24352] trace: ui apply done
+[21:57:03.466][INFO][tid 24352] trace: ui binds done
+[21:57:03.466][INFO][tid 24352] trace: ui modules done
+[21:57:03.466][INFO][tid 24352] trace: ui autosave done
+[21:57:03.466][INFO][tid 24352] trace: ui toasts done
+[21:57:03.466][INFO][tid 24352] trace: d3d12 ui::Frame exit
+[21:57:03.466][INFO][tid 24352] trace: d3d12 imgui render done
+[21:57:03.466][INFO][tid 24352] trace: d3d12 drawdata done
+[21:57:03.468][INFO][tid 24352] trace: d3d12 submit queue 0000019734D86080 (game)
+[21:57:03.468][INFO][tid 24352] trace: d3d12 submit done
+[21:57:03.468][INFO][tid 24352] trace: render done
+[21:57:03.659][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=104) - nothing is refreshing the box cache
+[21:57:04.208][INFO][tid 9788] wndproc: first WM_INPUT
+[21:57:05.465][INFO][tid 24352] guard: Potions::render slow (5.1 ms)
+[21:57:05.659][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=230) - nothing is refreshing the box cache
+[21:57:06.557][INFO][tid 9788] hitboxes: camera origin: no level (client=0000019778692C80 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:57:06.559][INFO][tid 9788] hitboxes: frame transform skipped client=0000019778692C80 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:57:07.501][INFO][tid 9788] rawmouse: first buttons=0001
+[21:57:07.660][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=358) - nothing is refreshing the box cache
+[21:57:08.546][INFO][tid 9788] hitboxes: camera origin: no level (client=0000019778692C80 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:57:08.560][INFO][tid 9788] hitboxes: frame transform skipped client=0000019778692C80 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:57:08.693][INFO][tid 24352] input census(600): keydown=0 keyup=0 rawinput=2605 rawbtn=4 char=0 mousemove=11 lbtn=0 fgwnd=0 asyncEver(insert=0 k=0 m1=0)
+[21:57:09.658][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=486) - nothing is refreshing the box cache
+[21:57:10.559][INFO][tid 9788] hitboxes: camera origin: no level (client=0000019778692C80 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:57:10.559][INFO][tid 9788] hitboxes: frame transform skipped client=0000019778692C80 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:57:11.663][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=614) - nothing is refreshing the box cache
+[21:57:13.669][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=739) - nothing is refreshing the box cache
+[21:57:14.452][INFO][tid 9788] hitboxes: camera origin: no level (client=0000019778692C80 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:57:14.493][INFO][tid 9788] hitboxes: frame transform skipped client=0000019778692C80 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:57:15.652][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=865) - nothing is refreshing the box cache
+[21:57:16.448][INFO][tid 9788] hitboxes: camera origin: no level (client=0000019778692C80 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:57:16.481][INFO][tid 9788] hitboxes: frame transform skipped client=0000019778692C80 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:57:17.665][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=994) - nothing is refreshing the box cache
+[21:57:18.450][INFO][tid 9788] hitboxes: camera origin: no level (client=0000019778692C80 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:57:18.483][INFO][tid 9788] hitboxes: frame transform skipped client=0000019778692C80 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:57:19.657][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=1122) - nothing is refreshing the box cache
+[21:57:20.449][INFO][tid 9788] hitboxes: camera origin: no level (client=0000019778692C80 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:57:20.480][INFO][tid 9788] hitboxes: frame transform skipped client=0000019778692C80 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:57:21.666][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=1251) - nothing is refreshing the box cache
+[21:57:23.660][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=1379) - nothing is refreshing the box cache
+[21:57:24.721][INFO][tid 9788] hitboxes: camera origin: no level (client=0000019778692C80 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:57:24.721][INFO][tid 9788] hitboxes: frame transform skipped client=0000019778692C80 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:57:25.663][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=1507) - nothing is refreshing the box cache
+[21:57:27.095][INFO][tid 9788] hitboxes: camera origin: no level (client=0000019778692C80 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:57:27.098][INFO][tid 9788] hitboxes: frame transform skipped client=0000019778692C80 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:57:27.668][ERROR][tid 15892] hitboxes: AABB sampler has no world registry (pass=1635) - nothing is refreshing the box cache
+[21:57:28.355][INFO][tid 24352] hitboxes: actor context actor=00000197702B9370 registry=000001976F9416F0 entt=000001976F941720 entity=0000000B
+[21:57:28.355][INFO][tid 24352] hitboxes: entt read ok (erased) hash=D4E8F36E entity=0000000B
+[21:57:28.361][INFO][tid 24352] potions: hamambanan context registry=000001976F9416F0 entt=000001976F941720 entity=0000000B
+[21:57:28.364][INFO][tid 24352] potions: component read ok, effects=0
+[21:57:28.364][INFO][tid 24352] guard: Potions::render slow (6.6 ms)
+[21:57:28.376][INFO][tid 15892] hitboxes: aabb ctx-fail actor=00000090365FC108 direct=0 directEntt=0000000000000000 directEntity=00000000 hint=0 hintReg=0000000000000000 hintEntity=00000000 world=000001976F941720
+[21:57:28.376][INFO][tid 15892] hitboxes: aabb ctx-fail bytes actor=00000090365FC108 +00=0000000000000000B0AF0C2E97010000A0AF0C2E9701000000000000000000000000000000000000
+[21:57:28.376][INFO][tid 15892] hitboxes: rotation sample failed actor=00000090365FC108 direct=0 hint=0 (look line hidden)
+[21:57:28.376][INFO][tid 15892] hitboxes: rotation sample failed actor=00000090365FC150 direct=0 hint=0 (look line hidden)
+[21:57:28.376][INFO][tid 15892] hitboxes: rotation sample failed actor=00000090365FBB18 direct=0 hint=0 (look line hidden)
+[21:57:28.376][INFO][tid 15892] hitboxes: rotation sample failed actor=00000090365FBB60 direct=0 hint=0 (look line hidden)
+[21:57:28.376][INFO][tid 15892] hitboxes: actor context actor=00000090365FC6F8 registry=0000018600007C00 entt=0000019700000050 entity=00030001
+[21:57:28.376][INFO][tid 15892] hitboxes: entt read failed erased=4 typed=4 hash=1B10C9F2 entity=00030001
+[21:57:28.376][INFO][tid 15892] hitboxes: pool dump fault registry=0000019700000050
+[21:57:28.376][INFO][tid 15892] hitboxes: pools total=0 entity=00030001 hits=0 []
+[21:57:28.376][INFO][tid 15892] hitboxes: pools sizes 
+[21:57:28.376][INFO][tid 15892] hitboxes: component storage miss hash=1B10C9F2 registry=0000019700000050
+[21:57:28.376][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-storage storage=0000019700000050 entity=00030001 size=32
+[21:57:28.376][INFO][tid 15892] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=00030001
+[21:57:28.376][INFO][tid 15892] hitboxes: component storage found hash=1B10C9F2 registry=000001976F941720 storage=000001972773A810
+[21:57:28.376][INFO][tid 15892] hitboxes: bounded component diagnostic stage=sparse-packed storage=000001972773A810 entity=00030001 size=32
+[21:57:28.376][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-payload storage=000001972773A810 entity=00030001 size=32
+[21:57:28.376][INFO][tid 15892] hitboxes: aabb stage=shape-miss actor=00000090365FC6F8 registry=0000019700000050 entity=00030001 a=0.000 b=0.000
+[21:57:28.376][INFO][tid 15892] hitboxes: actor context actor=00000090365FC6F8 registry=0000018600007C00 entt=0000019700000050 entity=00030001
+[21:57:28.376][INFO][tid 15892] hitboxes: component storage miss hash=DC1E21CE registry=0000019700000050
+[21:57:28.376][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-storage storage=0000019700000050 entity=00030001 size=16
+[21:57:28.380][INFO][tid 15892] hitboxes: component storage found hash=DC1E21CE registry=000001976F941720 storage=000001972773A310
+[21:57:28.380][INFO][tid 15892] hitboxes: bounded component diagnostic stage=sparse-packed storage=000001972773A310 entity=00030001 size=16
+[21:57:28.380][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-payload storage=000001972773A310 entity=00030001 size=16
+[21:57:28.380][INFO][tid 15892] hitboxes: actor context actor=00000090365FC3B8 registry=00000090365FE6F8 entt=00007FFE1893CE11 entity=25A00287
+[21:57:28.380][INFO][tid 15892] hitboxes: entt read failed erased=4 typed=4 hash=1B10C9F2 entity=25A00287
+[21:57:28.380][INFO][tid 15892] hitboxes: pool dump fault registry=00007FFE1893CE11
+[21:57:28.380][INFO][tid 15892] hitboxes: pools dump fault registry=00007FFE1893CE11
+[21:57:28.380][INFO][tid 15892] hitboxes: component storage miss hash=1B10C9F2 registry=00007FFE1893CE11
+[21:57:28.380][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-storage storage=00007FFE1893CE11 entity=25A00287 size=32
+[21:57:28.380][INFO][tid 15892] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=25A00287
+[21:57:28.382][INFO][tid 15892] hitboxes: bounded component diagnostic stage=sparse-packed storage=000001972773A810 entity=25A00287 size=32
+[21:57:28.382][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-payload storage=000001972773A810 entity=25A00287 size=32
+[21:57:28.382][INFO][tid 15892] hitboxes: actor context actor=00000090365FC3B8 registry=00000090365FE6F8 entt=00007FFE1893CE11 entity=25A00287
+[21:57:28.382][INFO][tid 15892] hitboxes: component storage miss hash=DC1E21CE registry=00007FFE1893CE11
+[21:57:28.382][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-storage storage=00007FFE1893CE11 entity=25A00287 size=16
+[21:57:28.382][INFO][tid 15892] hitboxes: bounded component diagnostic stage=sparse-packed storage=000001972773A310 entity=25A00287 size=16
+[21:57:28.382][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-payload storage=000001972773A310 entity=25A00287 size=16
+[21:57:28.382][INFO][tid 15892] hitboxes: actor context actor=00000090365FC740 registry=0000019700000000 entt=0000019727C840A0 entity=DE64267C
+[21:57:28.382][INFO][tid 15892] hitboxes: entt read failed erased=4 typed=4 hash=1B10C9F2 entity=DE64267C
+[21:57:28.382][INFO][tid 15892] hitboxes: pool dump fault registry=0000019727C840A0
+[21:57:28.382][INFO][tid 15892] hitboxes: pools dump fault registry=0000019727C840A0
+[21:57:28.382][INFO][tid 15892] hitboxes: component storage miss hash=1B10C9F2 registry=0000019727C840A0
+[21:57:28.382][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-storage storage=0000019727C840A0 entity=DE64267C size=32
+[21:57:28.382][INFO][tid 15892] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=DE64267C
+[21:57:28.382][INFO][tid 15892] hitboxes: bounded component diagnostic stage=sparse-packed storage=000001972773A810 entity=DE64267C size=32
+[21:57:28.382][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-payload storage=000001972773A810 entity=DE64267C size=32
+[21:57:28.382][INFO][tid 15892] hitboxes: actor context actor=00000090365FC740 registry=0000019700000000 entt=0000019727C840A0 entity=DE64267C
+[21:57:28.382][INFO][tid 15892] hitboxes: component storage miss hash=DC1E21CE registry=0000019727C840A0
+[21:57:28.382][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-storage storage=0000019727C840A0 entity=DE64267C size=16
+[21:57:28.382][INFO][tid 15892] hitboxes: bounded component diagnostic stage=sparse-packed storage=000001972773A310 entity=DE64267C size=16
+[21:57:28.382][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-payload storage=000001972773A310 entity=DE64267C size=16
+[21:57:28.382][INFO][tid 15892] hitboxes: actor context actor=00000090365FCCE8 registry=0000019734000000 entt=00007FF6781C97B0 entity=28F48EB0
+[21:57:28.382][INFO][tid 15892] hitboxes: entt read failed erased=4 typed=4 hash=1B10C9F2 entity=28F48EB0
+[21:57:28.382][INFO][tid 15892] hitboxes: pool dump fault registry=00007FF6781C97B0
+[21:57:28.382][INFO][tid 15892] hitboxes: pools dump fault registry=00007FF6781C97B0
+[21:57:28.386][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-storage storage=00007FF6781C97B0 entity=28F48EB0 size=32
+[21:57:28.386][INFO][tid 15892] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=28F48EB0
+[21:57:28.386][INFO][tid 15892] hitboxes: bounded component diagnostic stage=sparse-packed storage=000001972773A810 entity=28F48EB0 size=32
+[21:57:28.386][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-payload storage=000001972773A810 entity=28F48EB0 size=32
+[21:57:28.389][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-storage storage=00007FF6781C97B0 entity=28F48EB0 size=16
+[21:57:28.389][INFO][tid 15892] hitboxes: bounded component diagnostic stage=sparse-packed storage=000001972773A310 entity=28F48EB0 size=16
+[21:57:28.389][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-payload storage=000001972773A310 entity=28F48EB0 size=16
+[21:57:28.389][INFO][tid 15892] hitboxes: pool dump fault registry=0000019737218608
+[21:57:28.389][INFO][tid 15892] hitboxes: pools dump fault registry=0000019737218608
+[21:57:28.389][INFO][tid 15892] hitboxes: pool dump fault registry=000001974756A480
+[21:57:28.389][INFO][tid 15892] hitboxes: pools dump fault registry=000001974756A480
+[21:57:28.407][INFO][tid 9788] hitboxes: entt read ok (erased) hash=D4E8F36E entity=0000000B
+[21:57:28.408][INFO][tid 9788] hitboxes: entt read ok (erased) hash=D4E8F36E entity=0000000B
+[21:57:28.408][INFO][tid 9788] hitboxes: entt read ok (erased) hash=D4E8F36E entity=0000000B
+[21:57:28.618][INFO][tid 15892] hitboxes: Actor::canSee resolved at 00007FF674A428E0 (occlusion ready)
+[21:57:28.623][INFO][tid 15892] hitboxes: urgent AABB generation=6067 attempted=24 fresh=0 owners=256 camera=0 budgetLeft=0
+[21:57:28.623][INFO][tid 15892] hitboxes: aabb agg owners=256 snapshot=0 tickAdded=256 visited=26 attempted=24 fresh=0 | ctx-fail=1 shape-miss=11 shape-invalid=0 shape-ok=0 no-position=0 ok=0 refreshOk=0 refreshFail=24 | target-reject=4 lastWord=00000010 filterOff=0 camera=0 urgent=1 | registry=1 pass=1680
+[21:57:28.641][INFO][tid 15892] hitboxes: urgent AABB generation=6073 attempted=24 fresh=0 owners=256 camera=0 budgetLeft=0
+[21:57:28.666][INFO][tid 15892] hitboxes: world context established local=00000197702B9370 registry=000001976F941720
+[21:57:28.666][INFO][tid 15892] hitboxes: owner pool hash=132A5818 registry=000001976F941720 pool=0000019730647C90 size=1 local=0000000000000000
+[21:57:28.666][INFO][tid 15892] hitboxes: owner pool ids=0000000B live=1 tombstone=0
+[21:57:28.666][INFO][tid 15892] hitboxes: owner payload entity=0000000B 70932B70970100002B2BD3959701000050329E74F67F00001006C8A397010000 | p0=00000197702B9370 p1=0000019795D32B2B p2=00007FF6749E3250 p3=00000197A3C80610
+[21:57:28.669][INFO][tid 15892] hitboxes: owner walk pageSize=128 count=1 badSlots=0 packed=1
+[21:57:28.669][INFO][tid 15892] hitboxes: owner pair actor=00000197702B9370 ownerEntity=0000000B ctx=1 ctxEntity=0000000B aabbOwner=1 aabbCtx=1
+[21:57:28.669][INFO][tid 15892] hitboxes: owner snapshot published actors=1 registry=000001976F941720
+[21:57:28.669][INFO][tid 15892] hitboxes: owner snapshot refreshed actors=1 registry=000001976F941720
+[21:57:28.669][INFO][tid 15892] hitboxes: categories offset 0x210 VALID (local=00000197702B9370 word=00000003 bits=2 read=1) - target filter enabled
+[21:57:28.800][INFO][tid 15892] hitboxes: aabb stage=shape-ok actor=00000197702B9370 registry=000001976F941720 entity=0000000B a=0.600 b=1.800
+[21:57:28.800][INFO][tid 15892] hitboxes: aabb stage=ok actor=00000197702B9370 registry=000001976F941720 entity=0000000B a=0.600 b=1.800
+[21:57:28.904][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-retry storage=00007FFE1893CE11 entity=34000000 size=32
+[21:57:28.904][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-retry storage=00007FFE1893CE11 entity=34000000 size=16
+[21:57:28.904][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-retry storage=00007FFE1893CE11 entity=34000000 size=32
+[21:57:28.904][INFO][tid 15892] hitboxes: bounded component diagnostic stage=raw-retry storage=00007FFE1893CE11 entity=34000000 size=16
+[21:57:29.193][INFO][tid 9788] hitboxes: camera origin: no level (client=0000019778692C80 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:57:29.193][INFO][tid 9788] hitboxes: frame transform skipped client=0000019778692C80 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:57:32.557][INFO][tid 9788] hitboxes: camera origin: no level (client=0000019778692C80 read=1 rawClientLevel=0000000000000001 hookedLevel=0000000000000000)
+[21:57:32.557][INFO][tid 9788] hitboxes: frame transform skipped client=0000019778692C80 levelRenderer=0000000000000000 matrix=1 origin=0 eye=0 retainedEye=0
+[21:57:32.898][INFO][tid 9788] hitboxes: renderLevel hook fired level=00000197227F8FD0 screen=00000197786656D0 frame=00000197792B5DD0
+[21:57:32.899][INFO][tid 9788] hitboxes: owner pool hash=132A5818 registry=000001976F941720 pool=0000019730647C90 size=1 local=00000197702B9370
+[21:57:32.899][INFO][tid 9788] hitboxes: owner pool ids=0000000B live=1 tombstone=0
+[21:57:32.899][INFO][tid 9788] hitboxes: owner payload entity=0000000B 70932B70970100002B2BD3959701000050329E74F67F00001006C8A397010000 | p0=00000197702B9370 p1=0000019795D32B2B p2=00007FF6749E3250 p3=00000197A3C80610
+[21:57:32.899][INFO][tid 9788] hitboxes: owner walk pageSize=128 count=0 badSlots=0 packed=1
+[21:57:32.899][INFO][tid 9788] hitboxes: owner snapshot published actors=0 registry=000001976F941720
+[21:57:32.899][INFO][tid 9788] hitboxes: packet owners=0 complete=1 kept=0 self=0 gate=0 occlusion=0 invisible=0 noAabb=0
+[21:57:32.899][INFO][tid 9788] hitboxes: legacy camera snapshot published origin=(801.50,52.62,801.50) focal=(0.476,0.846)
+[21:57:32.899][INFO][tid 9788] hitboxes: legacy camera snapshot published origin=(801.50,52.62,801.50) focal=(0.476,0.846)
+[21:57:32.928][INFO][tid 9788] hitboxes: renderLevel hook fired level=00000197227F8FD0 screen=00000197786656D0 frame=000001974A870768
+[21:57:32.935][INFO][tid 9788] hitboxes: renderLevel hook fired level=00000197227F8FD0 screen=00000197786656D0 frame=000001974A870768
+[21:57:33.162][INFO][tid 9788] hitboxes: owner walk pageSize=128 count=0 badSlots=0 packed=1
+[21:57:33.185][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 4281 ms (passes=1695)
+[21:57:33.409][INFO][tid 9788] hitboxes: owner walk pageSize=128 count=11 badSlots=0 packed=12
+[21:57:33.409][INFO][tid 9788] hitboxes: owner pair actor=00000197485FCBE0 ownerEntity=0004000C ctx=1 ctxEntity=0004000C aabbOwner=1 aabbCtx=1
+[21:57:33.409][INFO][tid 9788] hitboxes: owner pair actor=0000019727829A60 ownerEntity=0044000D ctx=1 ctxEntity=0044000D aabbOwner=1 aabbCtx=1
+[21:57:33.409][INFO][tid 9788] hitboxes: owner pair actor=0000019727826660 ownerEntity=0000000F ctx=1 ctxEntity=0000000F aabbOwner=1 aabbCtx=1
+[21:57:33.409][INFO][tid 9788] hitboxes: owner snapshot published actors=11 registry=000001976F941720
+[21:57:33.409][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:33.409][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:33.409][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:33.409][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:33.409][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:33.848][INFO][tid 24352] guard: Potions::render slow (6.3 ms)
+[21:57:33.891][INFO][tid 9788] hitboxes: packet owners=11 complete=1 kept=10 self=0 gate=0 occlusion=0 invisible=0 noAabb=1
+[21:57:33.902][INFO][tid 9788] hitboxes: owner snapshot published actors=15 registry=000001976F941720
+[21:57:34.183][INFO][tid 9788] feedkey: key=41 down
+[21:57:34.356][INFO][tid 9788] feedkey: key=57 down
+[21:57:34.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:34.402][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:34.565][INFO][tid 9788] feedkey: key=57 up
+[21:57:34.621][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:34.621][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:34.814][INFO][tid 9788] feedkey: key=41 up
+[21:57:34.885][INFO][tid 9788] hitboxes: packet owners=15 complete=1 kept=10 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:34.960][INFO][tid 9788] feedkey: key=57 down
+[21:57:35.188][INFO][tid 9788] feedkey: key=41 down
+[21:57:35.408][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:35.408][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:35.458][INFO][tid 9788] feedkey: key=41 up
+[21:57:35.622][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:35.622][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:35.622][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:35.891][INFO][tid 9788] hitboxes: packet owners=15 complete=1 kept=10 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:35.904][INFO][tid 9788] hitboxes: owner snapshot published actors=18 registry=000001976F941720
+[21:57:36.156][INFO][tid 9788] feedkey: key=44 down
+[21:57:36.232][INFO][tid 9788] feedkey: key=57 up
+[21:57:36.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:36.537][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:36.543][INFO][tid 9788] feedkey: key=44 up
+[21:57:36.621][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:36.621][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:36.651][INFO][tid 9788] hitboxes: owner snapshot published actors=19 registry=000001976F941720
+[21:57:36.858][INFO][tid 9788] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=00000018
+[21:57:36.858][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197220EE560 registry=000001976F941720 entity=00000018 a=0.000 b=0.000
+[21:57:36.887][INFO][tid 9788] hitboxes: packet owners=19 complete=1 kept=14 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:36.902][INFO][tid 9788] hitboxes: owner snapshot published actors=18 registry=000001976F941720
+[21:57:37.265][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 8359 ms (passes=1695)
+[21:57:37.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:37.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:37.622][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:37.622][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:37.622][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:37.887][INFO][tid 9788] hitboxes: packet owners=18 complete=1 kept=13 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:38.134][INFO][tid 23876] input census(3600): keydown=0 keyup=0 rawinput=6382 rawbtn=17 char=0 mousemove=24 lbtn=0 fgwnd=0 asyncEver(insert=0 k=0 m1=0)
+[21:57:38.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:38.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:38.620][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:38.620][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:38.653][INFO][tid 9788] hitboxes: owner snapshot published actors=19 registry=000001976F941720
+[21:57:38.889][INFO][tid 9788] hitboxes: packet owners=19 complete=1 kept=14 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:39.010][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197A4261E70 registry=000001976F941720 entity=001C0029 a=0.000 b=0.000
+[21:57:39.155][INFO][tid 9788] hitboxes: owner snapshot published actors=18 registry=000001976F941720
+[21:57:39.401][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:39.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:39.623][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:39.623][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:39.623][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:39.888][INFO][tid 9788] hitboxes: packet owners=18 complete=1 kept=13 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:40.401][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:40.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:40.620][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:40.620][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:40.887][INFO][tid 9788] hitboxes: packet owners=18 complete=1 kept=13 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:41.350][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 12437 ms (passes=1695)
+[21:57:41.403][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:41.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:41.620][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:41.620][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:41.620][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:41.654][INFO][tid 9788] hitboxes: owner snapshot published actors=19 registry=000001976F941720
+[21:57:41.886][INFO][tid 9788] hitboxes: packet owners=19 complete=1 kept=14 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:42.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:42.529][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:42.621][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:42.621][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:42.891][INFO][tid 9788] hitboxes: packet owners=19 complete=1 kept=14 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:42.902][INFO][tid 9788] hitboxes: owner snapshot published actors=20 registry=000001976F941720
+[21:57:43.012][INFO][tid 9788] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=00C00018
+[21:57:43.012][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=000001972781BD60 registry=000001976F941720 entity=00C00018 a=0.000 b=0.000
+[21:57:43.152][INFO][tid 9788] hitboxes: owner snapshot published actors=19 registry=000001976F941720
+[21:57:43.405][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:43.529][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:43.620][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:43.620][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:43.620][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:43.888][INFO][tid 9788] hitboxes: packet owners=19 complete=1 kept=14 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:44.153][INFO][tid 9788] hitboxes: owner snapshot published actors=20 registry=000001976F941720
+[21:57:44.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:44.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:44.620][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:44.620][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:44.890][INFO][tid 9788] hitboxes: packet owners=20 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:44.903][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:57:45.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:45.421][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 16515 ms (passes=1695)
+[21:57:45.529][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:45.621][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:45.621][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:45.621][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:45.886][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:46.151][INFO][tid 9788] hitboxes: owner snapshot published actors=22 registry=000001976F941720
+[21:57:46.263][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=0000019727828D60 registry=000001976F941720 entity=001C002E a=0.000 b=0.000
+[21:57:46.404][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:57:46.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:46.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:46.620][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:46.620][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:46.886][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:47.155][INFO][tid 9788] hitboxes: owner snapshot published actors=20 registry=000001976F941720
+[21:57:47.403][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:47.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:47.621][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:47.621][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:47.621][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:47.868][INFO][tid 9788] wndproc: first WM_KEYDOWN vk=12
+[21:57:47.869][INFO][tid 24352] menu: CPS -> OFF
+[21:57:47.888][INFO][tid 9788] hitboxes: packet owners=20 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:48.406][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:48.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:48.621][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:48.621][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:48.889][INFO][tid 9788] hitboxes: packet owners=20 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:49.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:49.503][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 20593 ms (passes=1695)
+[21:57:49.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:49.532][INFO][tid 24352] config: saved C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\config.json (10810 bytes)
+[21:57:49.648][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:49.648][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:49.648][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:49.889][INFO][tid 9788] hitboxes: packet owners=20 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:50.406][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:50.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:50.638][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:50.638][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:50.653][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:57:50.886][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:51.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:51.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:51.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:51.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:51.636][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:51.658][INFO][tid 9788] hitboxes: owner snapshot published actors=22 registry=000001976F941720
+[21:57:51.888][INFO][tid 9788] hitboxes: packet owners=22 complete=1 kept=17 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:52.057][INFO][tid 9788] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=00E80018
+[21:57:52.057][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=0000019727822560 registry=000001976F941720 entity=00E80018 a=0.000 b=0.000
+[21:57:52.154][INFO][tid 9788] hitboxes: owner snapshot published actors=20 registry=000001976F941720
+[21:57:52.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:52.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:52.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:52.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:52.888][INFO][tid 9788] hitboxes: packet owners=20 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=4
+[21:57:53.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:53.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:53.547][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 24640 ms (passes=1695)
+[21:57:53.638][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:53.638][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:53.638][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:53.886][INFO][tid 9788] hitboxes: packet owners=20 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=4
+[21:57:54.405][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:57:54.405][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:54.530][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:54.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:54.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:54.652][INFO][tid 9788] hitboxes: owner snapshot published actors=22 registry=000001976F941720
+[21:57:54.887][INFO][tid 9788] hitboxes: packet owners=22 complete=1 kept=18 self=0 gate=0 occlusion=0 invisible=0 noAabb=4
+[21:57:55.215][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197222F4D60 registry=000001976F941720 entity=00200022 a=0.000 b=0.000
+[21:57:55.409][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:57:55.409][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:55.530][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:55.638][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:55.638][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:55.638][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:55.887][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=17 self=0 gate=0 occlusion=0 invisible=0 noAabb=4
+[21:57:56.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:56.511][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197222EBE60 registry=000001976F941720 entity=006C0033 a=0.000 b=0.000
+[21:57:56.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:56.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:56.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:56.889][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=17 self=0 gate=0 occlusion=0 invisible=0 noAabb=4
+[21:57:56.903][INFO][tid 9788] hitboxes: owner snapshot published actors=22 registry=000001976F941720
+[21:57:57.401][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:57.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:57.602][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 28687 ms (passes=1695)
+[21:57:57.639][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:57.639][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:57.639][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:57.889][INFO][tid 9788] hitboxes: packet owners=22 complete=1 kept=18 self=0 gate=0 occlusion=0 invisible=0 noAabb=4
+[21:57:58.405][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:58.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:58.637][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=000001974861DA00 registry=000001976F941720 entity=00000023 a=0.005 b=0.005
+[21:57:58.637][INFO][tid 9788] hitboxes: aabb ctx-fail actor=000001974861DA00 direct=1 directEntt=000001976F941720 directEntity=00000023 hint=1 hintReg=000001976F941720 hintEntity=00000023 world=000001976F941720
+[21:57:58.651][INFO][tid 9788] hitboxes: owner snapshot published actors=24 registry=000001976F941720
+[21:57:58.889][INFO][tid 9788] hitboxes: packet owners=24 complete=1 kept=19 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:57:59.060][INFO][tid 9788] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=00000017
+[21:57:59.060][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=0000019727823F60 registry=000001976F941720 entity=00000017 a=0.000 b=0.000
+[21:57:59.153][INFO][tid 9788] hitboxes: owner snapshot published actors=23 registry=000001976F941720
+[21:57:59.405][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:59.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:57:59.637][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:57:59.637][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:57:59.637][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:57:59.656][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:57:59.885][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=17 self=0 gate=0 occlusion=0 invisible=0 noAabb=4
+[21:58:00.153][INFO][tid 9788] hitboxes: owner snapshot published actors=22 registry=000001976F941720
+[21:58:00.403][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:00.534][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:00.604][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=000001974ADE9160 registry=000001976F941720 entity=006C002E a=0.000 b=0.000
+[21:58:00.640][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:00.640][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:00.654][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:58:00.889][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=17 self=0 gate=0 occlusion=0 invisible=0 noAabb=4
+[21:58:01.406][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:01.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:01.608][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197A4247E70 registry=000001976F941720 entity=00200035 a=0.000 b=0.000
+[21:58:01.637][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:01.637][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:01.637][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:01.653][INFO][tid 9788] hitboxes: owner snapshot published actors=19 registry=000001976F941720
+[21:58:01.658][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 32750 ms (passes=1695)
+[21:58:01.850][INFO][tid 24352] menu: FPS Counter -> OFF
+[21:58:01.890][INFO][tid 9788] hitboxes: packet owners=19 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=4
+[21:58:01.904][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:58:02.405][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:02.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:02.635][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:02.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:02.656][INFO][tid 23876] menu: CPS -> ON
+[21:58:02.852][INFO][tid 24352] menu: CPS -> OFF
+[21:58:02.866][INFO][tid 9788] wndproc: first WM_KEYUP
+[21:58:02.885][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:03.405][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:03.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:03.639][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:03.639][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:03.639][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:03.727][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=0000019727825960 registry=000001976F941720 entity=00000014 a=0.000 b=0.000
+[21:58:03.886][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:03.903][INFO][tid 9788] hitboxes: owner snapshot published actors=19 registry=000001976F941720
+[21:58:04.406][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:04.529][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:04.543][INFO][tid 24352] config: saved C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\config.json (10811 bytes)
+[21:58:04.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:04.638][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:04.886][INFO][tid 9788] hitboxes: packet owners=19 complete=1 kept=14 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:05.403][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:05.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:05.638][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:05.638][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:05.638][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:05.712][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 36796 ms (passes=1695)
+[21:58:05.889][INFO][tid 9788] hitboxes: packet owners=19 complete=1 kept=14 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:06.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:06.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:06.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:06.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:06.887][INFO][tid 9788] hitboxes: packet owners=19 complete=1 kept=14 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:07.403][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:07.530][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:07.637][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:07.637][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:07.637][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:07.887][INFO][tid 9788] hitboxes: packet owners=19 complete=1 kept=14 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:08.403][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:08.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:08.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:08.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:08.657][INFO][tid 9788] hitboxes: owner snapshot published actors=20 registry=000001976F941720
+[21:58:08.888][INFO][tid 9788] hitboxes: packet owners=20 complete=1 kept=14 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:08.903][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:58:09.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:09.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:09.638][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:09.638][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:09.638][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:09.762][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 40859 ms (passes=1695)
+[21:58:09.886][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:10.403][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:10.529][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:10.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:10.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:10.886][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:11.052][INFO][tid 23876] overlay: WndProc subclass installed on 00000000000F0A94 [MSCTFIME UI] (extra)
+[21:58:11.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:11.529][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:11.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:11.637][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:11.637][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:11.761][INFO][tid 9788] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=00600036
+[21:58:11.761][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=000001974ADEDF60 registry=000001976F941720 entity=00600036 a=0.000 b=0.000
+[21:58:11.888][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:11.918][INFO][tid 9788] hitboxes: owner snapshot published actors=20 registry=000001976F941720
+[21:58:12.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:12.419][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:58:12.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:12.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:12.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:12.888][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:13.403][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:13.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:13.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:13.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:13.636][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:13.835][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 44921 ms (passes=1695)
+[21:58:13.891][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:14.216][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197A4258F70 registry=000001976F941720 entity=00400038 a=0.000 b=0.000
+[21:58:14.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:14.417][INFO][tid 9788] hitboxes: owner snapshot published actors=19 registry=000001976F941720
+[21:58:14.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:14.635][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:14.635][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:14.890][INFO][tid 9788] hitboxes: packet owners=19 complete=1 kept=14 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:15.123][INFO][tid 24352] menu: CPS -> ON
+[21:58:15.175][INFO][tid 9788] hitboxes: owner snapshot published actors=20 registry=000001976F941720
+[21:58:15.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:15.529][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:15.639][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:15.639][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:15.639][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:15.809][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197A4261E70 registry=000001976F941720 entity=00080014 a=0.000 b=0.000
+[21:58:15.888][INFO][tid 9788] hitboxes: packet owners=20 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:15.920][INFO][tid 9788] hitboxes: owner snapshot published actors=18 registry=000001976F941720
+[21:58:16.406][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:16.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:16.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:16.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:16.674][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:58:16.762][INFO][tid 23876] config: saved C:\Users\ruzan\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Nightfull\config.json (10810 bytes)
+[21:58:16.888][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:17.172][INFO][tid 9788] hitboxes: owner snapshot published actors=22 registry=000001976F941720
+[21:58:17.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:17.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:17.637][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:17.637][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:17.637][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:17.887][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 48984 ms (passes=1695)
+[21:58:17.887][INFO][tid 9788] hitboxes: packet owners=22 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:17.923][INFO][tid 9788] hitboxes: owner snapshot published actors=23 registry=000001976F941720
+[21:58:18.405][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:18.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:18.638][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:18.638][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:18.855][INFO][tid 9788] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=0014003B
+[21:58:18.855][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197A4249870 registry=000001976F941720 entity=0014003B a=0.000 b=0.000
+[21:58:18.886][INFO][tid 9788] hitboxes: packet owners=23 complete=1 kept=17 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:18.919][INFO][tid 9788] hitboxes: owner snapshot published actors=22 registry=000001976F941720
+[21:58:19.169][INFO][tid 9788] hitboxes: owner snapshot published actors=23 registry=000001976F941720
+[21:58:19.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:19.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:19.640][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:19.640][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:19.640][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:19.886][INFO][tid 9788] hitboxes: packet owners=23 complete=1 kept=17 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:19.921][INFO][tid 9788] hitboxes: owner snapshot published actors=24 registry=000001976F941720
+[21:58:20.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:20.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:20.639][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:20.639][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:20.886][INFO][tid 9788] hitboxes: packet owners=24 complete=1 kept=18 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:21.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:21.529][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:21.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:21.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:21.636][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:21.890][INFO][tid 9788] hitboxes: packet owners=24 complete=1 kept=18 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:21.959][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 53046 ms (passes=1695)
+[21:58:22.401][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:22.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:22.639][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:22.639][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:22.888][INFO][tid 9788] hitboxes: packet owners=24 complete=1 kept=18 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:23.403][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:23.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:23.640][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:23.640][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:23.640][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:23.808][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197A4250D70 registry=000001976F941720 entity=003C002F a=0.000 b=0.000
+[21:58:23.856][INFO][tid 9788] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=003C002F
+[21:58:23.888][INFO][tid 9788] hitboxes: packet owners=24 complete=1 kept=18 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:23.919][INFO][tid 9788] hitboxes: owner snapshot published actors=22 registry=000001976F941720
+[21:58:24.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:24.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:24.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:24.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:24.886][INFO][tid 9788] hitboxes: packet owners=22 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:25.401][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:25.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:25.637][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:25.637][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:25.637][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:25.885][INFO][tid 9788] hitboxes: packet owners=22 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:26.032][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 57125 ms (passes=1695)
+[21:58:26.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:26.418][INFO][tid 9788] hitboxes: owner snapshot published actors=23 registry=000001976F941720
+[21:58:26.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:26.638][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:26.638][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:26.714][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=0000019727822560 registry=000001976F941720 entity=000C003E a=0.000 b=0.000
+[21:58:26.886][INFO][tid 9788] hitboxes: packet owners=23 complete=1 kept=17 self=0 gate=0 occlusion=0 invisible=0 noAabb=6
+[21:58:26.920][INFO][tid 9788] hitboxes: owner snapshot published actors=20 registry=000001976F941720
+[21:58:27.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:27.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:27.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:27.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:27.636][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:27.887][INFO][tid 9788] hitboxes: packet owners=20 complete=1 kept=15 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:27.921][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:58:28.401][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:28.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:28.635][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:28.635][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:28.888][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:29.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:29.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:29.638][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:29.638][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:29.638][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:29.885][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:30.096][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 61187 ms (passes=1695)
+[21:58:30.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:30.528][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:30.640][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:30.640][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:30.886][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:31.168][INFO][tid 9788] hitboxes: owner snapshot published actors=22 registry=000001976F941720
+[21:58:31.264][INFO][tid 9788] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=0080002F
+[21:58:31.264][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=0000019727823F60 registry=000001976F941720 entity=0080002F a=0.000 b=0.000
+[21:58:31.403][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:31.529][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:31.636][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:31.636][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:31.636][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:31.887][INFO][tid 9788] hitboxes: packet owners=22 complete=1 kept=17 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:32.405][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:32.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:32.559][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197A425F770 registry=000001976F941720 entity=01F80015 a=0.000 b=0.000
+[21:58:32.638][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:32.638][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:32.669][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:58:32.887][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:32.918][INFO][tid 9788] hitboxes: owner snapshot published actors=22 registry=000001976F941720
+[21:58:33.171][INFO][tid 9788] hitboxes: owner snapshot published actors=23 registry=000001976F941720
+[21:58:33.401][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:33.527][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:33.696][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:33.696][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:33.696][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:33.886][INFO][tid 9788] hitboxes: packet owners=23 complete=1 kept=18 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:34.173][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 65265 ms (passes=1695)
+[21:58:34.403][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:34.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:34.688][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:34.688][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:34.886][INFO][tid 9788] hitboxes: packet owners=23 complete=1 kept=18 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:34.935][INFO][tid 9788] hitboxes: owner snapshot published actors=25 registry=000001976F941720
+[21:58:35.401][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:35.531][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:35.685][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:35.685][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:35.685][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:35.889][INFO][tid 9788] hitboxes: packet owners=25 complete=1 kept=20 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:36.402][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:36.404][INFO][tid 9788] hitboxes: entt read failed erased=3 typed=3 hash=1B10C9F2 entity=0024003F
+[21:58:36.404][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197656AB560 registry=000001976F941720 entity=0024003F a=0.000 b=0.000
+[21:58:36.436][INFO][tid 9788] hitboxes: owner snapshot published actors=23 registry=000001976F941720
+[21:58:36.526][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:36.684][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:36.684][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:36.886][INFO][tid 9788] hitboxes: packet owners=23 complete=1 kept=18 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:37.401][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:37.401][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197A425F770 registry=000001976F941720 entity=004C0047 a=0.000 b=0.000
+[21:58:37.434][INFO][tid 9788] hitboxes: owner snapshot published actors=22 registry=000001976F941720
+[21:58:37.530][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:37.684][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:37.684][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:37.684][INFO][tid 9788] hitboxes: aabb ctx-fail bytes actor=00000197485FCBE0 +00=E8273278F67F0000F016946F970100002017946F970100000C000400000000000000000000000000
+[21:58:37.890][INFO][tid 9788] hitboxes: packet owners=22 complete=1 kept=17 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
+[21:58:38.243][ERROR][tid 21036] hitboxes: AABB sampler stalled - no pass for 69328 ms (passes=1695)
+[21:58:38.404][INFO][tid 9788] hitboxes: aabb stage=shape-ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:38.529][INFO][tid 9788] hitboxes: aabb stage=ok actor=0000019727829A60 registry=000001976F941720 entity=0044000D a=0.750 b=2.250
+[21:58:38.653][INFO][tid 9788] hitboxes: aabb stage=shape-miss actor=00000197A4261E70 registry=000001976F941720 entity=01780035 a=0.000 b=0.000
+[21:58:38.685][INFO][tid 9788] hitboxes: owner snapshot published actors=21 registry=000001976F941720
+[21:58:38.685][INFO][tid 9788] hitboxes: aabb stage=shape-invalid actor=00000197485FCBE0 registry=000001976F941720 entity=0004000C a=0.005 b=0.005
+[21:58:38.685][INFO][tid 9788] hitboxes: aabb ctx-fail actor=00000197485FCBE0 direct=1 directEntt=000001976F941720 directEntity=0004000C hint=1 hintReg=000001976F941720 hintEntity=0004000C world=000001976F941720
+[21:58:38.885][INFO][tid 9788] hitboxes: packet owners=21 complete=1 kept=16 self=0 gate=0 occlusion=0 invisible=0 noAabb=5
